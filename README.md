@@ -11,7 +11,16 @@ Then we get the base model
 
 ## Post-training
 
-1. conversation
+1. Supervised Fine-tuning (user-assistant conversations)
+2. Reinforcement tranning
+3. RLHF
+
+for example 
+1. Pretraning: exposistion, background knowledge
+2. Supervised finetuning: problem + demonstrated solution, for imitation
+3. Reinforcement learning: practice many many times until you reach the correct answer
+
+
 
 ## References
 
